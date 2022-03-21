@@ -1,0 +1,1 @@
+npm i discord.js discord-music-player @discordjs/opus
